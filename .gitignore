@@ -1,0 +1,8 @@
+_site
+.vscode
+.sass-cache
+.jekyll-metadata
+.jekyll-cache
+*.DS_Store
+.vagrant
+.github
