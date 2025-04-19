@@ -50,4 +50,4 @@ docker compose down
 
 # Maintainers
 
-- [Dhanu Sir](@dhanusir)
+- [Dhanu Sir](https://github.com/dhanusir)
