@@ -265,10 +265,6 @@
       padding-top: 0;
       padding-bottom: 5rem;
 
-      .container {
-        max-width: 95%;
-      }
-
       .left-panel-wrapper {
         .banner-title {
           line-height: 50px;
@@ -293,10 +289,9 @@
       }
 
       .banner-img-wrapper {
-        padding: 2rem;
-
         .banner-img {
           height: 320px;
+          max-width: 100%;
         }
       }
     }
